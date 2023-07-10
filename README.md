@@ -4,24 +4,6 @@
 # 💫 About Me:
 A consistent academic performer with a proven track record, and a collaborative team player with leadership abilities. Have hands-on experience in Java, Machine Learning, and Web Development. Actively engaged in coding challenges, projects, and hackathons. Committed to delivering top-notch results and contributing to organizational success<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASWINBABUKV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASWINBABUKV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="164" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l7rq3j3ryzf3un25ecrfgg9b04y8la5uv93lp7s4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -66,6 +48,18 @@ A consistent academic performer with a proven track record, and a collaborative 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ASWINBABUKV&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ASWINBABUKV&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINBABUKV&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ASWINBABUKV&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ASWINBABUKV&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 
 <br clear="both">
