@@ -1,8 +1,7 @@
-![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/ASWINBABUKV/ASWINBABUKV/assets/137376192/00afa1ab-ec8b-4eb2-8f4a-9ad98b279f1a)
-
-
 <h1 align="center">Hi 👋, I'm ASWIN BABU K V</h1>
 <h3 align="center">WEB DEVELOPER | COMPETITIVE PROGRAMMER | STUDENT</h3>
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966](https://github.com/ASWINBABUKV/ASWINBABUKV/assets/137376192/f151fa4b-a47d-47e5-a446-7f11f8852b59)
+
 
 # 💫 About Me:
 A consistent academic performer with a proven track record, and a collaborative team player with leadership abilities. Have hands-on experience in Java, Machine Learning, and Web Development. Actively engaged in coding challenges, projects, and hackathons. Committed to delivering top-notch results and contributing to organizational success<be>
