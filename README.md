@@ -68,19 +68,9 @@ A consistent academic performer with a proven track record, and a collaborative 
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ASWINBABUKV/ASWINBABUKV/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ASWINBABUKV/count.svg?"  />
-</div>
-
 
