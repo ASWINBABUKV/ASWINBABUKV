@@ -83,24 +83,4 @@ A consistent academic performer with a proven track record, and a collaborative 
   <img src="https://profile-counter.glitch.me/ASWINBABUKV/count.svg?"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ASWINBABUKV/ASWINBABUKV/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ASWINBABUKV/ASWINBABUKV/output/snake.svg" alt="Snake animation" />
-
-###
