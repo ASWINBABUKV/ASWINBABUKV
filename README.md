@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm ASWIN BABU K V</h1>
 <h3 align="center">WEB DEVELOPER | COMPETITIVE PROGRAMMER | STUDENT</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/ASWINBABUKV/ASWINBABUKV/assets/137376192/577da46f-df7f-46d7-a858-754d58fa17b0)
-">
-
 
 # 💫 About Me:
 A consistent academic performer with a proven track record, and a collaborative team player with leadership abilities. Have hands-on experience in Java, Machine Learning, and Web Development. Actively engaged in coding challenges, projects, and hackathons. Committed to delivering top-notch results and contributing to organizational success<be>
