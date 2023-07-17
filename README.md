@@ -5,8 +5,8 @@
 # 💫 About Me:
 A consistent academic performer with a proven track record, and a collaborative team player with leadership abilities. Have hands-on experience in Java, Machine Learning, and Web Development. Actively engaged in coding challenges, projects, and hackathons. Committed to delivering top-notch results and contributing to organizational success<be>
 
-# Skills
-<div align="left">
+# 🛠 Skills
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
