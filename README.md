@@ -51,14 +51,17 @@ A consistent academic performer with a proven track record, and a collaborative 
 </div>
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=ASWINBABUKV&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ASWINBABUKV&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINBABUKV&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/__aswin_11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aswin_11_" height="30" width="40" /></a>
+<a href="https://instagram.com/__aswin_11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aswin_11_" height="25" width="28" /></a>
 </p>
+- 📫 Reach me via **aswinbabukv11@gmail.com**
 
 
 
