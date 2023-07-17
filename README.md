@@ -60,11 +60,7 @@ A consistent academic performer with a proven track record, and a collaborative 
 <a href="https://instagram.com/__aswin_11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aswin_11_" height="30" width="40" /></a>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ASWINBABUKV&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ASWINBABUKV&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
