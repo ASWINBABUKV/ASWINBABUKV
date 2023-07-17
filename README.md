@@ -51,11 +51,9 @@ A consistent academic performer with a proven track record, and a collaborative 
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=ASWINBABUKV&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ASWINBABUKV&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINBABUKV&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
