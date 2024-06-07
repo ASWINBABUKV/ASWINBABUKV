@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm ASWIN BABU K V</h1>
-<h3 align="center">CLOUD ENGINEER</h3>
+<h3 align="center">TECHNOLODY AND PLATFORM DEVELOPMENT ENGINEER</h3>
 
-
-# 💫 About Me:
-A consistent academic performer with a proven track record, and a collaborative team player with leadership abilities. Have hands-on experience in Java, Machine Learning, and Web Development. Actively engaged in coding challenges, projects, and hackathons. Committed to delivering top-notch results and contributing to organizational success<be>
 
 # 🛠 Skills
 <div align="center">
