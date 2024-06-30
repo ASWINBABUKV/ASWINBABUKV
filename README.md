@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASWIN BABU K V</h1>
-<h3 align="center">TECHNOLODY AND PLATFORM DEVELOPMENT ENGINEER</h3>
+<h3 align="center">TECHNOLOGY AND PLATFORM DEVELOPMENT ENGINEER</h3>
 
 
 # 🛠 Skills
